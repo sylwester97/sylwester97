@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sylwester
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning React
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass, javascript,nodejs,tailwind,react,)](https://skillicons.dev)
 <!--
 **sylwester97/sylwester97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

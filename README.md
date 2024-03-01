@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - My skills:
   
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,javascript,react,nodejs,git,java,gulp,bootstrap,tailwind,canva,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,nodejs,git,java,gulp,bootstrap,tailwind,canva,)](https://skillicons.dev)
 <!--
 **sylwester97/sylwester97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
